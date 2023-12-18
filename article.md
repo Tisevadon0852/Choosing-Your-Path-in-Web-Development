@@ -1,6 +1,6 @@
 # Choosing Your Path in Web Development: Frontend vs. Backend vs. Full Stack
 
-Feeling lost? Perhaps, you are coming from a non-tech career or a different tech career but want to switch to web development. As a newbie who is looking for how to get started with web development, this distinction can be confusing when people suggest that you should major in frontend, backend, or full-stack web development.
+Perhaps, you are coming from a non-tech career or a different tech career but want to switch to web development. As a newbie who is looking for how to get started with web development, this distinction can be confusing when people suggest that you should major in frontend, backend, or full-stack web development.
 
 Let me briefly explain these terms: Frontend web development refers to building the part of a website or web application that is visible to users, whereas backend web development involves building the part of a website that users cannot see, which supports many of the features and functionalities you see on the website or web application. Full-stack development means wearing both hats, building both the visible and invisible parts of a website.
 
@@ -26,25 +26,27 @@ Frontend web development, sometimes called client-side development, involves bui
 
 Frontend developers focus on making websites look and feel great for users. They also work with the backend team to ensure everything functions smoothly, and they test and fix any problems that arise. Here are some key responsibilities of a frontend developer:
 
-- Writing code in HTML, CSS, and JavaScript: These are the fundamental languages of the web used to build the structure, style, and interactivity of a website.
-- Responsive design: Ensuring the website looks good and functions properly on all devices, from desktops to smartphones.
-- Accessibility: Making the website usable for everyone, including people with disabilities.
-- Performance optimization: Optimizing the website's code and assets to ensure fast loading times.
-- Testing and debugging: Identifying and fixing any bugs or errors in the code.
+- **Writing code in HTML, CSS, and JavaScript:** These are the fundamental languages of the web used to build the structure, style, and interactivity of a website.
+- **Responsive design:** Ensuring the website looks good and functions properly on all devices, from desktops to smartphones.
+- **Accessibility:** Making the website usable for everyone, including people with disabilities.
+- **Performance optimization:** Optimizing the website's code and assets to ensure fast loading times.
+- **Testing and debugging:** Identifying and fixing any bugs or errors in the code.
 
 ### Frontend Web Development Skills
 
 Frontend web development requires technical skills to create visually appealing, interactive, and user-friendly interfaces. Listed below are some important skills for frontend developers:
+
 **Basic Skills:** Frontend web development involves using several core languages to build the visual and interactive elements of a website. The primary languages for frontend development include:
 
-- HTML: The foundation of every web page, responsible for defining the structure and content.
-- CSS: Controls the visual appearance of a website, including layout, fonts, colors, and animations.
-- JavaScript: Adds interactivity and dynamic behavior to websites.
+- **HTML:** The foundation of every web page, responsible for defining the structure and content.
+- **CSS:** Controls the visual appearance of a website, including layout, fonts, colors, and animations.
+- **JavaScript:** Adds interactivity and dynamic behavior to websites.
 
 **Essential Frontend Frameworks and Libraries:** Frontend web developers use frameworks for several reasons, as these tools provide a structured and efficient way to build web applications. Here are some frameworks used by frontend developers:
-**JavaScript Frameworks:** React, Angular, Vue.js (choose one or two based on your interests and project needs)
-**CSS Frameworks:** Bootstrap, Tailwind
-**CSS Preprocessors:** Sass, Less
+
+- **JavaScript Frameworks:** React, Angular, Vue.js (choose one or two based on your interests and project needs)
+- **CSS Frameworks:** Bootstrap, Tailwind
+- **CSS Preprocessors:** Sass, Less
 
 ### Resources for Learning Frontend Web Development
 
@@ -70,12 +72,13 @@ Backend web development, sometimes called server-side development, is the part o
 ### Responsibilities of a Backend Developer
 
 The role of a backend web developer involves handling data, server operations, and ensuring the smooth functioning of the application. Here are the key responsibilities of a backend developer:
-**Server-Side Scripting:** Develop and implement server-side logic using server-side scripting languages such as PHP, Python, Ruby, Java, or Node.js.
-**Database Management:** Design, create, and manage databases that store and retrieve data efficiently. This includes defining database schemas, writing queries, and optimizing database performance.
-**API Development:** Create and maintain APIs (Application Programming Interfaces) that enable communication between the frontend and backend systems. This may involve RESTful or GraphQL APIs.
-**Security:** Ensuring the website or application is secure and protected from unauthorized access.
-Scalability and Performance Optimization: Design systems with scalability in mind, ensuring that the application can handle increased loads. Optimize backend code and infrastructure for better performance.
-**Testing:** Conduct testing to ensure the reliability and robustness of the backend code.
+
+- **Server-Side Scripting:** Develop and implement server-side logic using server-side scripting languages such as PHP, Python, Ruby, Java, or Node.js.
+- **Database Management:** Design, create, and manage databases that store and retrieve data efficiently. This includes defining database schemas, writing queries, and optimizing database performance.
+- **API Development:** Create and maintain APIs (Application Programming Interfaces) that enable communication between the frontend and backend systems. This may involve RESTful or GraphQL APIs.
+- **Security:** Ensuring the website or application is secure and protected from unauthorized access.
+  Scalability and Performance Optimization: Design systems with scalability in mind, ensuring that the application can handle increased loads. Optimize backend code and infrastructure for better performance.
+- **Testing:** Conduct testing to ensure the reliability and robustness of the backend code.
 
 ### Backend Web Development Skills
 
@@ -87,15 +90,16 @@ Programming Languages: You can choose any programming language to kick start you
 - **Ruby:** Known for its simplicity and elegance.
 - **Java:** Widely used in enterprise-level applications.
 - **PHP:** Commonly used for web development.
-  Essential Backtend Frameworks:
 
-  | Programming Language | Framework        |
-  | -------------------- | ---------------- |
-  | Node.js              | Express          |
-  | Python               | Django and flask |
-  | Ruby                 | Ruby on Rails    |
-  | Java                 | Spring Boot      |
-  | PHP                  | Laravel          |
+**Essential Backtend Frameworks:**
+
+| Programming Language | Framework        |
+| -------------------- | ---------------- |
+| Node.js              | Express          |
+| Python               | Django and flask |
+| Ruby                 | Ruby on Rails    |
+| Java                 | Spring Boot      |
+| PHP                  | Laravel          |
 
 ### Resources for Learning Backend Web Development
 
@@ -153,6 +157,7 @@ Full-stack web development requires a diverse skill set, encompassing both front
 ### Resources for Learning Full-stack Web Development
 
 Learning full-stack web development involves gaining proficiency in both frontend and backend technologies. Here are some excellent resources to help you learn full-stack web development:
+
 **Online Courses:**
 
 - **[freeCodeCamp:](https://www.freecodecamp.org/)** Build full-stack skills with interactive challenges and projects.
